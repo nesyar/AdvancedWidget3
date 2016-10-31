@@ -5,5 +5,5 @@ Nama : Nesya Rogawati
 <br> NIS : 4398/1296.063
 
 ![AdvancedWidget3%20(1)](https://github.com/nesyar/AdvancedWidget3/blob/master/AdvancedWidget3%20(1).png)
-
+![AdvancedWidget3%20(2)](https://github.com/nesyar/AdvancedWidget3/blob/master/AdvancedWidget3%20(2).png)
 
